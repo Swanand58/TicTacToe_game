@@ -7,8 +7,8 @@ let board = [
   let w; // = width / 3;
   let h; // = height / 3;
   
-  let ai = 'X';
-  let human = 'O';
+  let ai = 'O';
+  let human = 'X';
   let currentPlayer = human;
   
   function setup() {
